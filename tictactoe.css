@@ -1,7 +1,7 @@
 .wrapper{
     height: 100vh;
     width: 100vw;
-    background: url(gradient-bg.jpg);
+    background: url('gradient-bg.jpg');
     background-position:center ;
     background-size: cover;
     overflow: hidden;
